@@ -13,3 +13,7 @@ https://about.gitlab.com/topics/version-control/benefits-distributed-version-con
 What is Cloning?
 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+Windows and Unix command line equivalents
+
+https://www.lemoda.net/windows/windows2unix/windows2unix.html
